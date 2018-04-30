@@ -1,0 +1,7 @@
+db.sqlite3
+*/migrations
+*.pyc
+*.swp
+*.DS_Store*
+logs/
+media
