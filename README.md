@@ -1,2 +1,2 @@
-# wsrest
-Desarrollo de un webservice de tipo rest con django
+# api
+REST API con Django.
